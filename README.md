@@ -1,8 +1,6 @@
-<img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="200" height="200" />
+<img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="100" height="100" />
+
 Hello 👋, I'm Asuman, a dedicated Frontend Developer and a self-taught Designer with a deep passion for transforming ideas into reality through elegant user interfaces. I believe in the power of software to change the world, and my work reflects a commitment to not only aesthetics but also to the robust architecture and code quality behind the scenes.
-
-
-
 
 Whether you're in need of freelance work or looking to collaborate on a project, I'm open to opportunities that challenge and grow my skills. Feel free to reach out through:
 
