@@ -8,12 +8,6 @@ Hello 👋, I'm Asuman, a dedicated **Frontend Developer** and a self-taught **D
 - 🌐 Bionluk: [Visit my Bionluk Profile](https://bionluk.com/asumanaydin)
 - 💼 Upwork: [Check out my Upwork](https://www.upwork.com/freelancers/~01c2ddaf5d61f779f5)
 
-**Here's a glimpse into my developer life**
-I'm always exploring new technologies and tools to enhance my skills. Here are some insights into my GitHub activities:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=asumanaydinn&show_icons=true&theme=vue" alt="Asuman's GitHub Stats" />
-</p>
-
 ***Let's connect and make something amazing together!***
 
 
