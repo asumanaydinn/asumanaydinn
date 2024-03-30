@@ -1,5 +1,3 @@
-<img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="400" height="400" />
-
 Hello 👋, I'm Asuman, a dedicated **Frontend Developer** and a self-taught **Designer** with a deep passion for transforming ideas into reality through elegant user interfaces. Whether you're in need of freelance work or looking to collaborate on a project, I'm open to opportunities that challenge and grow my skills. 
 
 **Feel free to reach out through**
