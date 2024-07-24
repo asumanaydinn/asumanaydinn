@@ -8,7 +8,5 @@ Hello 👋, I'm Asuman, a dedicated **Frontend Developer** and a self-taught **D
 
 ***Let's connect and make something amazing together!***
 
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asumanaydinn&layout=compact&theme=transparent)
 
