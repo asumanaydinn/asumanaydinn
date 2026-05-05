@@ -5,5 +5,3 @@ Hello 👋, I'm Asuman, a dedicated **Frontend Developer** and a self-taught **D
 - 📧 [Email](asuman.aydin6709@gmail.com)
 
 ***Let's connect and make something amazing together!***
-
-[![Asuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=asumanaydinn)](https://github.com/asumanaydinn/github-readme-stats)
