@@ -6,5 +6,4 @@ Hello 👋, I'm Asuman, a dedicated **Frontend Developer** and a self-taught **D
 
 ***Let's connect and make something amazing together!***
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asumanaydinn&layout=compact&theme=transparent)
-
+[![Asuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=asumanaydinn)](https://github.com/asumanaydinn/github-readme-stats)
