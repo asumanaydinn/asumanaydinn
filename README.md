@@ -3,8 +3,6 @@ Hello 👋, I'm Asuman, a dedicated **Frontend Developer** and a self-taught **D
 **Feel free to reach out through**
 
 - 📧 [Email](asuman.aydin6709@gmail.com)
-- 🌐 Bionluk: [Visit my Bionluk Profile](https://bionluk.com/asumanaydin)
-- 💼 Upwork: [Check out my Upwork](https://www.upwork.com/freelancers/~01c2ddaf5d61f779f5)
 
 ***Let's connect and make something amazing together!***
 
